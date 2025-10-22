@@ -14,7 +14,6 @@ This project analyzes US Census data to identify characteristics associated with
 ├── census_income_learn.csv            # Training dataset (199,523 records)
 ├── census_income_test.csv             # Test dataset (99,762 records)
 ├── census_income_metadata.txt         # Dataset documentation
-├── ME__Dataiku_Data_Scientist_Technical_Assessment_and_Presentation.pdf
 ├── README.md                          # This file
 ├── EXECUTIVE_SUMMARY.md               # Executive summary of findings
 ├── PRESENTATION_SLIDES.md             # Presentation deck
